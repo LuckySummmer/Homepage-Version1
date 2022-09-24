@@ -1,0 +1,111 @@
+h1 {
+	text-align: center;
+	font-family: "Times New Roman";
+	font-size: 2em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+h2 {
+	text-align: center;
+	font-family: "Times New Roman";
+	font-size: 1.5em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+body {
+	font-family: "Times New Roman";
+	font-size: 100%;
+	text-align: justify;
+	line-height: 1.5em;
+	letter-spacing: 1pt;
+	background-color: whitesmoke;
+	background-image: url(images/background-pattern.png);
+	padding: 2em 6em 6em 6em;
+}
+
+
+
+nav#firstMenu{
+	background-color: #DAE1E8;
+	font-size: 1em;
+	line-height: 2em;
+	margin-bottom: 0em;
+	padding: 0.5em;
+}
+ul{
+	list-style-type: none;
+}
+nav p {
+	font-family: "Times New Roman";
+	font-size: 1.5em;
+	font-weight: bold;
+	font-style: italic;
+}
+section {
+	border: solid 1pt black;
+	padding-left: 2em;
+	padding-right: 2em;
+}
+em {
+	color: #808080;
+}
+footer{
+	background-color: #DAE1E8;
+	padding: 0.2em;
+}
+footer p {
+	margin-left: 1.5em;
+	color: black;
+	font-size: 0.95em;
+	font-weight: bold;
+	font-style: italic;
+}
+nav ol{
+	margin-left: 1em;
+	margin-bottom: 1em;
+	padding: 0.5em;
+}
+#pattern1 {
+	line-height: 2em;
+	text-align: justify;
+	width: 360px;
+	font-family: "Times New Roman";
+	font-weight: normal;
+	font-size: 1em;
+}
+#pattern2 {
+	text-align: center;
+}
+#yes {
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	padding-top: 1em;
+	font-size: 25px;
+}
+a:hover {
+    background-color: #FFFFCC;
+}
+a:visited {
+    color: #BB78BB;
+}
+a:link {
+    font-weight: bold;
+    color: #47B3F7;
+}
+strong {
+	font-style: italic;
+}
+table th {
+	padding: 1em;
+	//border: solid 0.2px #95BEF0;
+}
+table {
+	margin-top: 2em;
+    margin-right: auto;
+    margin-bottom: 0em;
+    margin-left: auto;
+}
+h1 {
+	text-shadow: #999999 5px 5px 5px;
+}
