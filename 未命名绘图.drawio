@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-06T14:54:24.761Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GKcDV7uMd_zt97Ctw-wp" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-07T01:47:41.785Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="eNmG68Opas_a6dSIgXFV" version="22.1.17" type="github">
   <diagram name="第 1 页" id="oT8-xcC14sC5nJTXVAAc">
     <mxGraphModel dx="984" dy="626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -12,10 +12,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eS18L2PSOOnawbZXzai0-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Enter the player game&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eS18L2PSOOnawbZXzai0-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Enter the player game&lt;br&gt;(Enter the player1&#39;s name)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="70" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eS18L2PSOOnawbZXzai0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eS18L2PSOOnawbZXzai0-2" target="eS18L2PSOOnawbZXzai0-12">
+        <mxCell id="eS18L2PSOOnawbZXzai0-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eS18L2PSOOnawbZXzai0-2" target="eS18L2PSOOnawbZXzai0-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eS18L2PSOOnawbZXzai0-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Duel Between Two Users&lt;br&gt;(Summer vs. Xiong)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -102,6 +102,12 @@
               <mxPoint x="265" y="419" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eS18L2PSOOnawbZXzai0-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eS18L2PSOOnawbZXzai0-30" target="eS18L2PSOOnawbZXzai0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS18L2PSOOnawbZXzai0-30" value="Enter the player2&#39; name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
